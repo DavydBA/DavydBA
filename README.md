@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Davyd
 - 👀 I’m interested in Business Analysis, Product Management and a bit in Coding :)
-- 🌱 I’m currently learning Dart & Flutter, Python
+- 🌱 I’m currently studying at CS50.
